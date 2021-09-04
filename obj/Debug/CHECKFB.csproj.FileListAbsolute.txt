@@ -1,0 +1,14 @@
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\obj\Debug\CHECKFB.csprojAssemblyReference.cache
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\obj\Debug\CHECKFB.csproj.CoreCompileInputs.cache
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\bin\Debug\CHECKFB.exe.config
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\bin\Debug\CHECKFB.exe
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\bin\Debug\CHECKFB.pdb
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\bin\Debug\WebDriver.dll
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\bin\Debug\WebDriver.xml
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\obj\Debug\CHECKFB.csproj.CopyComplete
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\obj\Debug\CHECKFB.exe
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\obj\Debug\CHECKFB.pdb
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\bin\Debug\CHECKFB.exe.manifest
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\bin\Debug\CHECKFB.application
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\obj\Debug\CHECKFB.exe.manifest
+K:\Users\Коля\source\repos\CHECKFB\CHECKFB\obj\Debug\CHECKFB.application
