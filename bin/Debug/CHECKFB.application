@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="CHECKFB.exe.manifest" size="4272">
+    <dependentAssembly dependencyType="install" codebase="CHECKFB.exe.manifest" size="4271">
       <assemblyIdentity name="CHECKFB.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0yTIyQhgE0Se0k3Q83iGSXPdm1SndQTCgFHKvZUN5Wo=</dsig:DigestValue>
+        <dsig:DigestValue>dzKavppe6T0j5NBQiDwF/UX6zZLZm05Ap2nGXAT6c90=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

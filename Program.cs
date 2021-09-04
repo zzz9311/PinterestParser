@@ -17,6 +17,7 @@ namespace CHECKFB
         public static List<string> ResultParsing = new List<string>(); 
         public static string Email;
         public static string Password;
+        public static List<char> Alphabet;
         static void Main(string[] args)
         {
             Console.WriteLine("Введите почту");
@@ -24,6 +25,19 @@ namespace CHECKFB
             Console.WriteLine("Введите пароль");
             Password = Console.ReadLine();
             Console.WriteLine("Какой алфавит?(ru,en)");
+            var AlphabetLanguage = Console.ReadLine();
+            if(AlphabetLanguage.Equals("ru"))
+            {
+                Alphabet = new List<char> { 'а', 'б', 'в', 'г', 'д', 'е', 'ё', 'ж', 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'щ', 'ы', 'э', 'ю', 'я' };
+            }
+            else
+            {
+                Alphabet = new List<char>();
+                for (char c = 'a'; c <= 'z'; ++c)
+                {
+                    Alphabet.Add(c);
+                }
+            }
             Pint();
             Console.ReadKey();
         }

@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CHECKFB.exe" size="10200">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CHECKFB.exe" size="9688">
       <assemblyIdentity name="CHECKFB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>68DWcY/qNsEHZX6CEOP2pINPpr87dCL2u56lUD96SkA=</dsig:DigestValue>
+        <dsig:DigestValue>vUyX1AIGApKliaZigbetArnGbbZN78WZ86yHdKjSKU0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
